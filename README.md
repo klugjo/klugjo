@@ -14,9 +14,9 @@ I am a Senior Software Engineer with 11 years of experience.
 
 ### Links
 
-- Blogging at [CodeBlocq](https://www.codeblocq.com/)
-- Killing time on [Stack Overflow](https://stackoverflow.com/users/1595699/klugjo)
+- ✍️ Blogging at [CodeBlocq](https://www.codeblocq.com/)
+- ⏳ Killing time on [Stack Overflow](https://stackoverflow.com/users/1595699/klugjo)
 
 ### Contact
 
-- Please connect with me on [LinkedIn](https://www.linkedin.com/in/jonathanklughertz/)
+- 📬 Please connect with me on [LinkedIn](https://www.linkedin.com/in/jonathanklughertz/)
