@@ -2,9 +2,9 @@
 
 Thanks for dropping by!
 
-I am a Senior Software Engineer with 11 years of experience. For the past few years, I have been focusing on Front End with React.
+I am a Senior Software Engineer with 11 years of experience.
 
-### Github
+### Github Summary
 
 - 💰  [Klug Saver](https://github.com/klugjo/klug-saver): A React Native Expense Tracker. Available on the [App Store](https://apps.apple.com/ph/app/klug-saver/id1467169332).
 - 🧩  [A* React](https://github.com/klugjo/a-star-react): Fun A* pathfinding [demo](http://a-star-pathfinding.codeblocq.com/).
