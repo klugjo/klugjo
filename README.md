@@ -19,4 +19,4 @@ I am a Senior Software Engineer with 14 years of experience.
 
 ### Contact
 
-- 📬 Please message me on [LinkedIn](https://www.linkedin.com/in/jonathanklughertz/)
+- 📬 Please message me on [LinkedIn](https://www.linkedin.com/in/jonathanklughertz/) or on my [company's website](https://klugconnection.com/contact/)
