@@ -2,7 +2,7 @@
 
 Thanks for dropping by!
 
-I am a Senior Software Engineer with 14 years of experience.
+I am a Senior Software Engineer with 15 years of experience.
 
 ### GitHub Summary
 
@@ -14,6 +14,7 @@ I am a Senior Software Engineer with 14 years of experience.
 
 ### Links
 
+- 🏭 My Company [Klug Connection GmbH](https://klugconnection.com/)
 - ✍️ Blogging at [CodeBlocq](https://www.codeblocq.com/)
 - ⏳ Killing time on [Stack Overflow](https://stackoverflow.com/users/1595699/klugjo)
 
