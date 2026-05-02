@@ -10,7 +10,6 @@ I love operating at the intersection of product strategy, UI/UX, and technical e
 
 - Option/Future/Spot trading platforms
 - Option Pricers 
-- Volatility Publishing and analytics
 - Trading Bots
 - FIX APIs
 - TradingView integrations
