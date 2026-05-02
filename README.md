@@ -14,7 +14,7 @@ I love operating at the intersection of product strategy, UI/UX, and technical e
 - FIX APIs
 - TradingView integrations
 - IPOs and New Bond Issues, Crypto, FX, Equities, Bonds and Funds Trading
-- Solidity/Solanad Smart Contracts
+- Solidity/Solana Smart Contracts
 - Data pipelines
 - AI integrations
 
