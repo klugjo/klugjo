@@ -2,22 +2,27 @@
 
 Thanks for dropping by!
 
-I am a Senior Software Engineer with 15 years of experience.
+I'm a Full Stack Engineer with over 17 years of experience building high-stakes, data-intensive software. I specialize in complex user interfaces for trading and distributed platforms.
 
-### GitHub Summary
+I love operating at the intersection of product strategy, UI/UX, and technical execution. Over the years, I've also had the pleasure of leading and collaborating with fantastic teams all over the globe.
 
-- 💰  [Klug Saver](https://github.com/klugjo/klug-saver): A React Native Expense Tracker - Available on the [App Store](https://apps.apple.com/ph/app/klug-saver/id1467169332)
-- 🧩  [A* React](https://github.com/klugjo/a-star-react): Fun A* pathfinding
-- 🎨  Four [Hexo.js](https://hexo.io/) Themes used by thousands of users - [Clean Blog](https://github.com/klugjo/hexo-theme-clean-blog), [Alpha Dust](https://github.com/klugjo/hexo-theme-alpha-dust), [Anodyne](https://github.com/klugjo/hexo-theme-anodyne) and [Magnetic](https://github.com/klugjo/hexo-theme-magnetic)
-- 🔗  A plugin for [Hexo.js](https://hexo.io/) - [Autolinker](https://github.com/klugjo/hexo-autolinker)
-- 🙈  The rest is probably not worth looking at 
+### What I have been up to ~ the past decade
 
-### Links
+- Option/Future/Spot trading platforms
+- Option Pricers 
+- Volatility Publishing and analytics
+- Trading Bots
+- FIX APIs
+- TradingView integrations
+- IPOs and New Bond Issues, Crypto, FX, Equities, Bonds and Funds Trading
+- Solidity/Solanad Smart Contracts
+- Data pipelines
+- AI integrations
 
-- 🏭 My Company [Klug Connection GmbH](https://klugconnection.com/)
-- ✍️ Blogging at [CodeBlocq](https://www.codeblocq.com/)
-- ⏳ Killing time on [Stack Overflow](https://stackoverflow.com/users/1595699/klugjo)
+### Current Go-To Stack
+
+React, TypeScript, bun, PostGres, Solidity, Solana
 
 ### Contact
 
-- 📬 Please message me on [LinkedIn](https://www.linkedin.com/in/jonathanklughertz/) or on my [company's website](https://klugconnection.com/contact/)
+Please message me on [LinkedIn](https://www.linkedin.com/in/jonathanklughertz/) or at `github.chamber419 [dot] passmail.net`
